@@ -1,0 +1,21 @@
+#User-agent: msnbot
+#Disallow: /yabbse
+#
+# don't search the pages for modifying
+User-agent: *
+Disallow: /edit
+Disallow: /info
+Disallow: /AdminSeite
+Disallow: /ErfurtWiki
+Disallow: /wiki/edit
+Disallow: /wiki/info
+Disallow: /wiki/AdminSeite
+Disallow: /wiki/ErfurtWiki
+Disallow: /edit/
+Disallow: /info/
+Disallow: /AdminSeite/
+Disallow: /ErfurtWiki/
+Disallow: /wiki/edit/
+Disallow: /wiki/info/
+Disallow: /wiki/AdminSeite/
+Disallow: /wiki/ErfurtWiki/

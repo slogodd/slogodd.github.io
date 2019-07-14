@@ -1,0 +1,36 @@
+.menu-header { 
+font-family: Arial;
+font-style: italic;
+font-weight: bold;
+font-size: 15px;
+font-variant: small-caps;
+color: #AF1A1A; 
+}
+.menu-entry {
+    height: 14px;
+}
+.menu-entry a { 
+font-family: Arial;
+font-weight: bold;
+font-size: 12px;
+}
+.menu-entry a:link { 
+color: #000000; 
+text-decoration: none;
+}
+.menu-entry a:visited { 
+color: #000000; 
+text-decoration: none;
+}
+.menu-entry a:hover { 
+color: #000000; 
+text-decoration: underline;
+}
+.menu-entry a:active { 
+color: #000000; 
+text-decoration: underline;
+}
+.menu-entry a:focus { 
+color: #000000; 
+text-decoration: underline;
+}
