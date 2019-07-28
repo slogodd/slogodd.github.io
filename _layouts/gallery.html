@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>{% include head.html %}
+
+    <!-- Magnific Popup core CSS file -->
+    <link rel="stylesheet" href="/css/magnific-popup.css">
+
+    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+    <!-- Magnific Popup core JS file -->
+    <script src="/galerie/jquery.magnific-popup.min.js"></script>
+
+    <script>
+    $(document).ready(function() {
+      $('.zoom-gallery').magnificPopup({
+        delegate: 'a',
+        type: 'image',
+        closeOnContentClick: false,
+        closeBtnInside: false,
+        mainClass: 'mfp-with-zoom mfp-img-mobile',
+        image: {
+          verticalFit: true,
+        },
+        gallery: {
+          enabled: true
+        },
+        zoom: {
+          enabled: true,
+          duration: 300, // don't foget to change the duration also in CSS
+          opener: function(element) {
+            return element.find('img');
+          }
+        }
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <div id="heading">
+      <a href="http://www.slogodd.de/" target="_top"><img src="http://www.slogodd.de/slogodd-banner.png"
+                                                          alt="Slogodd Orks - der LARP Ork Stamm aus Kerfrek"
+                                                          title="Slogodd Orks - der LARP Ork Stamm aus Kerfrek"
+                                                          longdesc="http://www.slogodd.de/" border="0" /></a>
+    </div>
+    <div id="menu-left">{% include menu-links.html %}</div>
+    <div id="menu-right">{% include menu-rechts.html %}</div>
+    <div id="content">
+      <h1>{{ page.title }}</h1>
+      <h2>{{ page.date }}</h2>
+
+      <div class="zoom-gallery">
+      {% for image in site.static_files %}
+        {% if image.path contains page.dir %}
+          {% if image.path contains '_thm' or image.path contains '_res' %}
+          {% else %}
+            {% capture imagepath %}{{ site.baseurl }}{{ image.path }}{% endcapture %}
+            {% capture curimpath %}{{ page.dir }}{{ image.name }}{% endcapture %}
+            {% if imagepath == curimpath %}
+              <a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ page.dir }}_thm/thm_{{ image.name }}" alt="image" /></a>
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      </div>
+
+      {{ content }}
+    </div>
+  </body>
+</html>
+
