@@ -51,11 +51,11 @@
 
       <div class="zoom-gallery">
       {% for image in site.static_files %}
-        {% if image.path contains page.dir %}
+        {% capture imagepath %}{{ site.baseurl }}{{ image.path | uri_escape }}{% endcapture %}
+        {% capture curimpath %}{{ page.dir | uri_escape }}{{ image.name | uri_escape }}{% endcapture %}
+        {% if imagepath contains page.dir %}
           {% if image.path contains '_thm' or image.path contains '_res' %}
           {% else %}
-            {% capture imagepath %}{{ site.baseurl }}{{ image.path }}{% endcapture %}
-            {% capture curimpath %}{{ page.dir }}{{ image.name }}{% endcapture %}
             {% if imagepath == curimpath %}
               <a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ page.dir }}_thm/thm_{{ image.name }}" alt="image" /></a>
             {% endif %}

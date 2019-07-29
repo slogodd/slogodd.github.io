@@ -34,3 +34,24 @@ text-decoration: underline;
 color: #000000; 
 text-decoration: underline;
 }
+
+.gallery {
+    border: 1px solid white;
+    box-shadow: 5px 5px black, 5px 5px 1px 1px white, 10px 10px black, 10px 10px 1px 1px white;
+    margin-bottom: 11px;
+    margin-right: 11px;
+}
+
+.gallerybox {
+    float: left;
+    margin: 5px;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.gallery_back {
+    clear: both;
+    border-top: 1px solid white;
+    padding-top: 5px;
+}
