@@ -1,5 +1,8 @@
 ---
 layout: gallery
-title: Gesellentaufe
-date: 10.-12.07.09
+title: Mampf und Kampf I
+date: 07.07.07
 ---
+
+[Zurück](../..)
+{: .gallery_back}

@@ -1,13 +1,16 @@
 ---
 layout: gallery
-title: MiniOrkCon X
-date: 07.-09.09.2007
+title: MiniOrkCon X - Die Macht der FÜNF
+date: 07.-09.09.07
 ---
 
-Weitere Galerien
-----------------
+OutTime:  
+[![OutTime](OutTime/_thm/thm_img_9240.jpg){:class="gallery"}](OutTime)
+{: .gallerybox}
 
-* OutTime:  
-  [![OutTime](OutTime/_thm/thm_img_9240.jpg)](OutTime)
-* Ork Maaden Contest:  
-  [![Ork_Maaden_Contest](Ork_Maaden_Contest/_thm/thm_img_9262.jpg)](Ork_Maaden_Contest)
+Ork Maaden Contest:  
+[![Ork_Maaden_Contest](Ork_Maaden_Contest/_thm/thm_img_9262.jpg){:class="gallery"}](Ork_Maaden_Contest)
+{: .gallerybox}
+
+[Zurück](../..)
+{: .gallery_back}

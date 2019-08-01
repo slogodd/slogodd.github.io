@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: OutTime
+title: Taverne
 ---
 
 [Zurück](..)

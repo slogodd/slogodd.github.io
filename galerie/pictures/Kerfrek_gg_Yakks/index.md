@@ -1,5 +1,8 @@
 ---
 layout: gallery
-title: Gesellentaufe
-date: 10.-12.07.09
+title: Kerfrek vs. Yak Tarr Nai
+date: 14.04.07
 ---
+
+[Zurück](../..)
+{: .gallery_back}

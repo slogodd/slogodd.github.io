@@ -26,7 +26,7 @@ MiniOrkCon 11 - Dautrogash - Hagglefair VII n.F.:
 [![](pictures/Dautrogash/_thm/thm_img_7168.jpg){:class="gallery"}](pictures/Dautrogash)
 {: .gallerybox}
 
-MiniOrkCon X:  
+MiniOrkCon X - Die Macht der FÜNF:  
 [![](pictures/MiniOrkCon_X/_thm/thm_img_9194.jpg){:class="gallery"}](pictures/MiniOrkCon_X)
 {: .gallerybox}
 
@@ -34,7 +34,7 @@ Mampf und Kampf I:
 [![](pictures/Mampf_und_Kampf_01/_thm/thm_Waffentraining_2007%20046.jpg){:class="gallery"}](pictures/Mampf_und_Kampf_01)
 {: .gallerybox}
 
-Kerfrek gg Yakks:  
+Kerfrek vs. Yak Tarr Nai:
 [![](pictures/Kerfrek_gg_Yakks/_thm/thm_Kerfrek%20gg%20Yakks%20407%20032.jpg){:class="gallery"}](pictures/Kerfrek_gg_Yakks)
 {: .gallerybox}
 
@@ -42,7 +42,7 @@ MiniOrkCon IX - Elfenball:
 [![](pictures/Elfenball/_thm/thm_Elfenball%20038.jpg){:class="gallery"}](pictures/Elfenball)
 {: .gallerybox}
 
-MiniOrkCon VIII:  
+MiniOrkCon VIII - Schwert und Geist:  
 [![](pictures/MiniOrkCon%20VIII/_thm/thm_IMG_7272.JPG){:class="gallery"}](pictures/MiniOrkCon%20VIII)
 {: .gallerybox}
 
@@ -50,7 +50,7 @@ MiniOrkCon VII - die Jagd:
 [![](pictures/MiniOrkCon%20VII%20-%20die%20Jagd/_thm/thm_PICT0575.JPG){:class="gallery"}](pictures/MiniOrkCon%20VII%20-%20die%20Jagd)
 {: .gallerybox}
 
-Mini Con V:  
+Mini Con VI:  
 [![](pictures/MiniCon%206/Im%20Lager/_thm/thm_P1010071.jpg){:class="gallery"}](pictures/MiniCon%206)
 {: .gallerybox}
 
