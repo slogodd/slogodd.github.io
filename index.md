@@ -28,7 +28,7 @@ Flo & Max
 Die Akademie Stinklbrunn öffnet ihre Pforten jetzt auch im Web:
 ===============================================================
 
-Die Seite ist natürlich noch im Aufbau, aber wer neugierig ist, kann ja schon mal auf [Stinklbrunn.de] die Baustelle bewundern... und wer meint, daß er etwas beitragen kann oder will, kann ja Nick wegen einer login-Möglichkeit nerven ;-) 
+Die Seite ist natürlich noch im Aufbau, aber wer neugierig ist, kann ja schon mal auf [Stinklbrunn.de](http://www.stinklbrunn.de/) die Baustelle bewundern... und wer meint, daß er etwas beitragen kann oder will, kann ja Nick wegen einer login-Möglichkeit nerven ;-) 
 
 
 Flo 
