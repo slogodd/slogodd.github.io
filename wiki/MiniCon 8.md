@@ -27,7 +27,7 @@ Flo
 MiniOrkCon VIII - 27.-29.01.2005
 ---------------------------------
 
-Die Planungen für unseren nächsten [Con (Flyer)](http://www.slogodd.de/flyer/MiniOrkCon_VIII-Schwert_und_Geist.pdf) sind weit gediehen. Der Termin steht fest, das Gelände auch - wir werden wieder einmal Stöbersberg (bei Rosenheim) unsicher machen.   
+Die Planungen für unseren nächsten [Con (Flyer)](https://www.slogodd.de/flyer/MiniOrkCon_VIII-Schwert_und_Geist.pdf) sind weit gediehen. Der Termin steht fest, das Gelände auch - wir werden wieder einmal Stöbersberg (bei Rosenheim) unsicher machen.   
 Gespielt wird draussen und in der Jurte, geschlafen und geduscht in einer beheizten Hütte. Wir werden diesmal wieder Vollverpflegung anbieten.   
 Natürlich wird der Con damit etwas teurer sein, die Preise sind in der ersten Staffel (Anmeldung bis 31.12.):   
 30 Euro Küchenasgauk (begrenzte Plätze, nach Rücksprache)   

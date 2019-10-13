@@ -10,7 +10,7 @@ Die Orks feiern "10-jähriges"
 
 Da wir natürlich wissen, daß dieses Jubiläum auch Verpflichtungen nach sich zieht, präsentieren wir Euch zunächst einmal unseren Ork-Kalender für 2010. 
 
-Einfach downloaden unter: [http://www.slogodd.de/download/Ork-Kalender_2010.pdf](/download/Ork-Kalender_2010.pdf) 
+Einfach downloaden unter: [https://www.slogodd.de/download/Ork-Kalender_2010.pdf](/download/Ork-Kalender_2010.pdf) 
 
 Wir wollen das 10-Jährige Bestehen unserer Gruppe natürlich auch mit einem hübschen Con feiern. So bald wir Euch etwas konkretes anbieten können,werden wir das natürlich auch hier tun. 
 

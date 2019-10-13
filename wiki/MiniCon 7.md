@@ -26,7 +26,7 @@ Unterbringung: eigene Zelte
 Verpflegung: Selbstverpflegung; Getränke kann man vor Ort kaufen 
 
 **Anmerkungen:**  
-Den Flyer mit allen Infos gibts [hier](http://www.slogodd.de/flyer/MiniOrkCon_VII-die_Jagd.pdf). Ein paar ausgedruckte Exemplare sind in Regensburg bei der Wolfsknopf-Gewandungsnäherey hinterlegt.  
+Den Flyer mit allen Infos gibts [hier](https://www.slogodd.de/flyer/MiniOrkCon_VII-die_Jagd.pdf). Ein paar ausgedruckte Exemplare sind in Regensburg bei der Wolfsknopf-Gewandungsnäherey hinterlegt.  
 Bei Fragen/Anregungen nutzt bitte das Forum.  
 Achtet bitte auf die geänderten AGBs. 
 

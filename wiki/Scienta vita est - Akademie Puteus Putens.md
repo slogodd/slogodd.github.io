@@ -11,7 +11,7 @@ Die Akademie Puteus putens im Lehen Müller-Thurgau, Aquilda, Trawonien, öffnet
 
 ---
 
-[Flyer](http://www.slogodd.de/flyer/SVE_Eroeffnung_der_Akademie.pdf)
+[Flyer](https://www.slogodd.de/flyer/SVE_Eroeffnung_der_Akademie.pdf)
 
 [Vorläufiges Programm](Vorlaeufiges Programm)
 

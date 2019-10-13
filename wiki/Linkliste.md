@@ -110,21 +110,21 @@ Links auf Slogodd.de
 
 **Wer einen Link mit Banner auf die Seite www.slogodd.de setzen möchte, sollte bitte diese Zeile Code einfügen:**
 ```
-<a href="http://www.slogodd.de/"><img src="http://www.slogodd.de/banner/slogodd-banner.gif" width="468" height="60" border="0" alt="Slogodd Orks - der LARP Ork Stamm aus Kerfrek" title="Slogodd Orks - der LARP Ork Stamm aus Kerfrek" longdesc="http://www.slogodd.de/" /></a> 
+<a href="https://www.slogodd.de/"><img src="https://www.slogodd.de/banner/slogodd-banner.gif" width="468" height="60" border="0" alt="Slogodd Orks - der LARP Ork Stamm aus Kerfrek" title="Slogodd Orks - der LARP Ork Stamm aus Kerfrek" longdesc="https://www.slogodd.de/" /></a> 
 ```
-![Slogodd Orks - der LARP Ork Stamm aus Kerfrek](http://www.slogodd.de/banner/slogodd-banner.gif) 
+![Slogodd Orks - der LARP Ork Stamm aus Kerfrek](https://www.slogodd.de/banner/slogodd-banner.gif) 
 
 **Für ein nicht animiertes Banner wäre die folgende Zeile richtig:**
 
 ```
-<a href="http://www.slogodd.de/"><img src="http://www.slogodd.de/banner/slogodd-banner-small.gif" width="468" height="60" border="0" alt="Slogodd Orks - der LARP Ork Stamm aus Kerfrek" title="Slogodd Orks - der LARP Ork Stamm aus Kerfrek" longdesc="http://www.slogodd.de/" /></a> 
+<a href="https://www.slogodd.de/"><img src="https://www.slogodd.de/banner/slogodd-banner-small.gif" width="468" height="60" border="0" alt="Slogodd Orks - der LARP Ork Stamm aus Kerfrek" title="Slogodd Orks - der LARP Ork Stamm aus Kerfrek" longdesc="https://www.slogodd.de/" /></a> 
 ```
-![Slogodd Orks - der LARP Ork Stamm aus Kerfrek](http://www.slogodd.de/banner/slogodd-banner-small.gif) 
+![Slogodd Orks - der LARP Ork Stamm aus Kerfrek](https://www.slogodd.de/banner/slogodd-banner-small.gif) 
 
 **Für einen Reinen Text-Link benutzt bitte:**
 
 ```
-<a href="http://www.slogodd.de/">Slogodd Orks - der LARP Ork Stamm aus Kerfrek</a> 
+<a href="https://www.slogodd.de/">Slogodd Orks - der LARP Ork Stamm aus Kerfrek</a> 
 ```
 
 Es ist natürlich kein problem, das Banner auch auf der eignen Seite abzulegen (z.B. um bei HTTPS Seiten die Warnmeldung zu vermeiden) 

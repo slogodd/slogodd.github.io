@@ -20,7 +20,7 @@ Chris & Flo
 [Mekzholan](Mekzholan)
 ----------------------
 ￼
-![](http://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7312.JPG){: .image-left }
+![](https://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7312.JPG){: .image-left }
 **IN-Time Informationen:**  
 
 **Name:** Mekzholan   
@@ -37,7 +37,7 @@ Chris & Flo
 [Bumuruk](Bumuruk)
 ------------------
 ￼
-![](http://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7299.JPG){: .image-left }
+![](https://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7299.JPG){: .image-left }
 **IN-Time Informationen:**  
 **Name:** Bumuruk   
 **Rasse:** Grün Ork   
@@ -81,7 +81,7 @@ Roggobrock verwendet zu Ehren von Bumuruk dessen alte Kriegsbemalung.
 Katurak
 -------
 
-![](http://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7314.JPG){: .image-left }
+![](https://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7314.JPG){: .image-left }
 **IN-Time Informationen:**    
 **Name:** Katurak   
 **Rasse:** Grün Ork   
@@ -101,7 +101,7 @@ Katurak hat sich als Kam Reg hochgedient und wurde im letztem Orkkrieg zum Skafa
 Torna
 -----
 
-![](http://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7289.JPG){: .image-left }
+![](https://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7289.JPG){: .image-left }
 **IN-Time Informationen:**    
 **Name:** Torna   
 **Rasse:** Grün Ork   
@@ -121,7 +121,7 @@ Torna ist kein urprüngliches Kind der Sippe Doram Irgash. Sie stammt aus der Si
 Shakripras
 ----------
 
-![](http://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7332.JPG){: .image-left }
+![](https://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7332.JPG){: .image-left }
 **IN-Time Informationen:**    
 **Name:** Shakripras   
 **Rasse:** Mensch   
@@ -141,7 +141,7 @@ Shakripras wurde als Mensch bei den Orks geboren. Sie Stammt ursprünglich aus e
 Shadra
 ------
 
-![](http://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7343.JPG){: .image-left }
+![](https://www.slogodd.de/galerie/pictures/MiniOrkCon%20VIII/Portrait/_thm/thm_IMG_7343.JPG){: .image-left }
 **IN-Time Informationen:**    
 **Name:** Shadra   
 **Rasse:** Grün Ork   
@@ -161,7 +161,7 @@ Shadra
 Shugashru
 ---------
 
-![](http://www.slogodd.de/galerie/pictures/Dautrogash/_thm/thm_img_7039.jpg){: .image-left }
+![](https://www.slogodd.de/galerie/pictures/Dautrogash/_thm/thm_img_7039.jpg){: .image-left }
 **IN-Time Informationen:**    
 **Name:** Shugashru   
 **Rasse:** Grün Ork   

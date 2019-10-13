@@ -19,7 +19,7 @@ Maximal 30 Übernachtungsplätze im eigenen Zelt. Schminke wird gestellt, Alkoho
 
 Kleine Bitte: Meldet euch frühzeitig an! Wir müssen wissen wie viele Getränke wir brauchen und die Plätze sind begrenzt.   
 Wir brauchen von Euch: Name, Vorname, Geburtsdatum, Telefonnummer, eMail, Übernachtung Ja/Nein, eigenes Zelt mit x freien Plätzen, Anfahrt mit eigenem Auto von y aus mit z freien Plätzen.   
-[Die AGBs sind auf unserer Homepage einsehbar](http://www.slogodd.de/agb.html) und liegen vor Ort aus.   
+[Die AGBs sind auf unserer Homepage einsehbar](https://www.slogodd.de/agb.html) und liegen vor Ort aus.   
 Für Minderjährige gilt: Bist du 16-18 Jahre alt benötigst du die Schriftliche Erlaubnis deiner Erziehungsberechtigten auf den ausgedruckten AGBs. Unter 16 Jahren kannst du nur in Begleitung eines Erziehungsberechtigten teilnehmen!   
 
 Das ist eine reine Ork-Veranstaltung! Eingeladen sind alle die Lust haben - insbesonders auch Anfänger. InTime-Klamotten sind erforderlich, die Zelte müssen Ambientetauglich sein (im Notfall Tarnnetze verwenden). Unsere Veranstaltungen haben bisher immer stattgefunden!
