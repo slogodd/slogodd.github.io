@@ -15,7 +15,7 @@ Unser anderes LARP-Projekt:
 Akademie Stinklbrunn - Akademia puteus putens
 ---------------------------------------------
 
-[Akademie Stinklbrunn](http://www.stinklbrunn.de/)
+[Akademie Stinklbrunn](/wiki/stinklbrunn.md)
 
 ---
 
