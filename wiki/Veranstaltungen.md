@@ -5,12 +5,12 @@ layout: page
 Scientia vita est  V - Akademia Puteus Putens
 =============================================
 
-17.-19.Januar 2025
+17.-19. Januar 2025
 
 
 Sehr geehrte Kolleginnen und Kollegen, 
 geschätzte Gönner und Freunde unserer Akademie,
-liebe Studiosi.
+liebe Studiosi!
 
 Aufs Neue darf ich im Namen der Akademie und des Dekanats unseren Heilerkongress ankündigen und dazu auf das herzlichste einladen. 
 Freuen Sie sich mit mir auf spannende Fachvorträge, anregende Gespräche und Erfahrungsaustausch im Rahmen bestbewährter Gastlichkeit unseres Hauses. 
