@@ -19,7 +19,7 @@ Rockenbach (Nähe Neustadt an der Aisch)
 
 Die Stinkelbrunner laden wieder zum Heilerkongress in die Akademia Puteus Putens nach Müller-Thurgau in Trawonien. 
 
-Näheres gibt es [hier](flyer/Flyer_SVE5.1_2025.pdf) und unter Veranstaltungen
+Näheres gibt es [hier](flyer/Flyer_SVE5.1_2025.pdf) und unter [Veranstaltungen](wiki/Veranstaltungen.md).
 
 Wir freuen uns schon jetzt auf Euch!
 
