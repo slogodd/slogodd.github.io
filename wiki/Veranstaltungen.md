@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
+Veranstaltungen:
+================
 
 Scientia vita est  V - Akademia Puteus Putens
 =============================================
@@ -55,15 +57,13 @@ Zimmerpfand 10 Euro pro Person, Tavernenkarten zu 6,- € beim CheckIn erhältli
 Anmeldung:	Ihr seid angemeldet sobald das Geld auf unserem Konto ist, wir eure Angaben haben (Anmeldung per Post/E-Mail an Beate) und wir euch per Email oder telefonisch die Anmeldung bestätigt haben!
 Conzahler mit Anreise ohne Anmeldebestätigung auf eigenes Risiko! Wir haben nur begrenzte Plätze. 
 
-flyer/Flyer_SVE5.1_2025.pdf
+[Flyer zum Download](/flyer/Flyer_SVE5.1_2025.pdf)
 
 ---
 layout: page
 ---
 
-Veranstaltungen
-===============
-
+================================================================================================================================================================================================================
 Slogodd - Orga proudly present   
 Eine Veranstaltung des [Bayerische Liverollenspieler e.V.](http://www.bayerischeliverollenspieler.de/)
 
