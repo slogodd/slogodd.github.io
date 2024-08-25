@@ -5,11 +5,15 @@ title: News
 So, kaum sind mal 5 Jahre vergangen, kennt man sich schon nicht mehr auf seiner eigenen Homepage aus....
 
 Dafür jetzt aber:
-Slogodd-Orga proudly presents
-Eine Veranstaltung des Bayerische Liverollenspieler e. V.            
 
-Scientia vita est 5
-Akademia Puteus putens
+Slogodd-Orga proudly presents
+-----------------------------
+Eine Veranstaltung des Bayerische Liverollenspieler e. V.            
+---------------------------------------------------------
+
+Scientia vita est 5 - Akademia Puteus putens
+============================================
+
 17. – 19. Januar  2025
 Rockenbach (Nähe Neustadt an der Aisch)
 
@@ -21,37 +25,6 @@ Wir freuen uns schon jetzt auf Euch!
 
 
 Max (für die Orga)
-
-
-Minicon 15: Dautrogash - Hagglefair 2
-=====================================
-
-PixieNix im Grünen - [Flyer](https://www.slogodd.de/flyer/Dautrogasch_2_Flyer.pdf)
-
-Vielen Dank an alle Teilnehmer, ich hoffe wir konnten Euch ein spaßiges Wochenende in launiger Atmosphäre bieten. Vielen Dank auch den "Nachzüglern" / Tagesgästen die noch vorbeigeschaut haben. 
-Die Orks werden sich nun ins Winterlager zurückziehen und die Zeit wird zeigen, was wir nächstes Jahr noch so anstellen können.
-
-Max (für die übrige Orga)
-
----
-
-Neuauflage Playersguide fertig
-==============================
-
-Pünktlich zum Con war der neue PG fertig und kann bei Flo geordert werden. Wir weisen hiermit darauf hin, daß nur gedruckte Versionen verschickt werden und wir Veröffentlichungen dieses PlayersGuide+ im Internet - auch von Teilen - durch dritte nicht zustimmen. 
-
-
-Flo & Max 
-
----
-
-Die Akademie Stinklbrunn öffnet ihre Pforten jetzt auch im Web:
-===============================================================
-
-Die Seite ist natürlich noch im Aufbau, aber wer neugierig ist, kann ja schon mal auf [Stinklbrunn.de](http://www.stinklbrunn.de/) die Baustelle bewundern... und wer meint, daß er etwas beitragen kann oder will, kann ja Nick wegen einer login-Möglichkeit nerven ;-) 
-
-
-Flo 
 
 ---
 
