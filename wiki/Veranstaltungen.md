@@ -60,8 +60,6 @@ Conzahler mit Anreise ohne Anmeldebestätigung auf eigenes Risiko! Wir haben nur
 [Flyer zum Download](/flyer/Flyer_SVE5.1_2025.pdf)
 
 ---
-layout: page
----
 
 ================================================================================================================================================================================================================
 Slogodd - Orga proudly present   
