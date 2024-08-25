@@ -8,13 +8,14 @@ Dafür jetzt aber:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Slogodd-Orga proudly presents
 --------------------------------
+
 Eine Veranstaltung des Bayerische Liverollenspieler e. V.            
 ---------------------------------------------------------
 
 Scientia vita est 5 - Akademia Puteus putens
 ============================================
 
-17. – 19. Januar  2025
+17.–19. Januar  2025
 Rockenbach (Nähe Neustadt an der Aisch)
 
 Die Stinkelbrunner laden wieder zum Heilerkongress in die Akademia Puteus Putens nach Müller-Thurgau in Trawonien. 
