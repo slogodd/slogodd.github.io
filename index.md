@@ -2,6 +2,26 @@
 layout: page
 title: News
 ---
+So, kaum sind mal 5 Jahre vergangen, kennt man sich schon nicht mehr auf seiner eigenen Homepage aus....
+
+Dafür jetzt aber:
+Slogodd-Orga proudly presents
+Eine Veranstaltung des Bayerische Liverollenspieler e. V.            
+
+Scientia vita est 5
+Akademia Puteus putens
+17. – 19. Januar  2025
+Rockenbach (Nähe Neustadt an der Aisch)
+
+Die Stinkelbrunner laden wieder zum Heilerkongress in die Akademia Puteus Putens nach Müller-Thurgau in Trawonien. 
+
+Näheres gibt es [hier]
+
+Wir freuen uns schon jetzt auf Euch!
+
+
+Max (für die Orga)
+
 
 Minicon 15: Dautrogash - Hagglefair 2
 =====================================
