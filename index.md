@@ -5,7 +5,9 @@ title: News
 So, kaum sind mal 5 Jahre vergangen, kennt man sich schon nicht mehr auf seiner eigenen Homepage aus....
 
 Dafür jetzt aber:
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Slogodd-Orga proudly presents
 --------------------------------
 
