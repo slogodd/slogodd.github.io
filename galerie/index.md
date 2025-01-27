@@ -2,6 +2,10 @@
 layout: page
 ---
 
+Akademia puteus putens - Scientia vita est 5:
+[![](pictures/2025_Akademie/Ambiente/_thm/2025_Akademie_20250119T124343_Michael.jpe){:class="gallery"}](pictures/2025_Akademie)
+{: .gallerybox}
+
 Akademia puteus putens - Scientia vita est 3:  
 [![](pictures/2017_Akademie/_thm/thm_Akademie023.jpg){:class="gallery"}](pictures/2017_Akademie)
 {: .gallerybox}
