@@ -4,28 +4,31 @@ layout: page
 Veranstaltungen:
 ================
 
-Scientia vita est  V - Akademia Puteus Putens
-=============================================
+Scientia vita est 6 - Akademia Puteus Putens
+============================================
 
-17.-19. Januar 2025
+15.-17. Januar 2027
 
-
-Sehr geehrte Kolleginnen und Kollegen, 
+Sehr geehrte Kolleginnen und Kollegen,
 geschätzte Gönner und Freunde unserer Akademie,
-liebe Studiosi!
+liebe Studiosi.
 
-Aufs Neue darf ich im Namen der Akademie und des Dekanats unseren Heilerkongress ankündigen und dazu auf das herzlichste einladen. 
-Freuen Sie sich mit mir auf spannende Fachvorträge, anregende Gespräche und Erfahrungsaustausch im Rahmen bestbewährter Gastlichkeit unseres Hauses. 
+Aufs Neue darf ich im Namen der Akademie und des
+Dekanats unseren diesjährigen Heilerkongress
+ankündigen und dazu auf das herzlichste einladen.
+
+Freuen Sie sich mit mir auf spannende Fachvorträge,
+anregende Gespräche und Erfahrungsaustausch im
+
+Rahmen bestbewährter Gastlichkeit unseres Hauses.
 Um Anmeldung wird gebeten.
 
-Dekan Leif M. Brander
+Dekan Leif Melchorius Brander
 
-OT-Info: Die Slogodd-Orga des Bayerische Liverollenspieler e.V. veranstaltet einen Vollverpflegungs-Con 
-vom 17.-19.01.2025 mit Unterbringung auf Schloss Rockenbach. 
-
-Wir haben diesmal wieder unseren Lieblings-Profi-Koch, Micheal Jann gewinnen können 
-(bekannt von der Akademie-Eröffnung und aus der „geflickten Trommel“-Anfangszeit). 
-Getränke gibt es wie immer zu günstigen Preisen vor Ort. 
+**OT-Info:** 
+Wie immer tagt die Akademie Stinklbrunn auf Schloss Rockenbach. Diesmal haben wir wieder unseren
+Profi-Koch Ernst Niederegger gewinnen können.
+Getränke gibt es wie immer zu günstigen Preisen vor Ort.
 Wir gehen Freitagabend InTime.
 
 Es handelt sich um eine Con von und für Heilkundige, Wissenschaftler verwandter Fachrichtungen, sowie Studenten und „Gönner“ der Akademie. 
@@ -33,31 +36,34 @@ Es wird KEINE reine Tanzveranstaltung, sondern tatsächlich ein „Medizinerkong
 Wir behalten uns auf Grund der begrenzten Plätze und des engen Spektrums sinnvollerweise anwesender Charaktere vor, unpassende Konzepte nicht zuzulassen. 
 Die Entscheidung trifft Flo (falls ihr euch also nicht sicher seid, meldet euch bei ihm).
 
-Regeln:	DKWDDK, Spielleitung ist „nur“ in Rolle anwesend, gekennzeichnet und jederzeit ansprechbar.
+**Regeln:**	DKWDDK, Spielleitung ist „nur“ in Rolle anwesend, gekennzeichnet und jederzeit ansprechbar.
 
-Anmeldung/Bezahlung:    	            Beate Kreuziger		shugashru@slogodd.de 		0179-5983715, Gerhart-Hauptmann-Str.18, 94474 Vilshofen
-Fragen, Charaktere / Dozenten, etc.: 	Flo Kreuziger		  tairach@slogodd.de 	    0179-1391852, Gerhart-Hauptmann-Str.18, 94474 Vilshofen
+```
+Anmeldung/Bezahlung:                 Beate Kreuziger shugashru@slogodd.de 0179-5983715, Gerhart-Hauptmann-Str.18, 94474 Vilshofen
+Fragen, Charaktere / Dozenten, etc.: Flo Kreuziger   tairach@slogodd.de   0179-1391852, Gerhart-Hauptmann-Str.18, 94474 Vilshofen
+```
 
-Wichtig:		Minderjährige MÜSSEN die Unterschrift ihrer Erziehungsberechtigten auf der dafür vorgesehenen Zeile mitbringen SONST KÖNNEN SIE NICHT TEILNEHMEN!!!
+**Wichtig:** Minderjährige MÜSSEN die Unterschrift ihrer Erziehungsberechtigten auf der dafür vorgesehenen Zeile mitbringen SONST KÖNNEN SIE NICHT TEILNEHMEN!!!
 
-Navi:	Schloßgasse 2, 91468 Gutenstetten
+**Navi:** Schloßgasse 2, 91468 Gutenstetten
 
-Kosten:	Stichtag ist der Tag des Geldeinganges
- auf unserem Konto	Spieler	Dozenten, Studenten-NSC
-	Bis incl. 31.08.24	125,-  	  115,-
-	Bis incl. 31.10.24	135,-  	  120,-
-	Bis incl. 31.12.24	145,-  	  125,-
-	Conzahler (nur nach  Absprache mit Beate)	160,-  	  ---  
+**Kosten:**
+|Stichtag ist der Tag des Geldeinganges auf unserem Konto|Spieler|Dozenten, Studenten-NSC|
+|--------------------------------------------------------|-------|-----------------------|
+|Bis incl. 31.08.26|130,-|120,-|
+|Bis incl. 31.10.26|140,-|130,-|
+|Bis incl. 31.12.26|150,-|135,-|
+|Conzahler (nur nach Absprache mit Beate)|165,-|---|
 
 Im Preis enthalten sind Unterbringung (Bettwäsche inklusive) und Verpflegung: 
 Abendessen (warm) Freitag, Frühstück Samstag, Mittagessen (Warm) Samstag, Festessen (Warm) Samstag, Brunch Sonntag sowie 2 „Zwischenmahlzeiten“ am Samstag. 
 Getränke kosten extra, bitte IT-Becher (bestenfalls 0,5l) mitbringen. 
 
 Zimmerpfand 10 Euro pro Person, Tavernenkarten zu 6,- € beim CheckIn erhältlich. 
-Anmeldung:	Ihr seid angemeldet sobald das Geld auf unserem Konto ist, wir eure Angaben haben (Anmeldung per Post/E-Mail an Beate) und wir euch per Email oder telefonisch die Anmeldung bestätigt haben!
+**Anmeldung:** Ihr seid angemeldet sobald das **Geld auf unserem Konto ist**, **wir eure Angaben haben** (Anmeldung per Post/E-Mail an Beate) und wir euch per Email oder telefonisch **die Anmeldung bestätigt** haben!
 Conzahler mit Anreise ohne Anmeldebestätigung auf eigenes Risiko! Wir haben nur begrenzte Plätze. 
 
-[Flyer zum Download](/flyer/Flyer_SVE5.1_2025.pdf)
+[Flyer zum Download](/flyer/Flyer_SVE6.pdf)
 
 ---
 
@@ -157,6 +163,8 @@ Frühere Veranstaltungen:
 
 |Datum	                  |Offizieller Name                                                                      |Interner Name|
 |-------------------------|--------------------------------------------------------------------------------------|-------------|
+|15.-17.01.2027           |[Scientia vita est 6 - Akademia Puteus Putens](/flyer/Flyer_SVE6.pdf)                 |Scienta vita est 6 – Akademie Puteus Putens|
+|17.-19.01.2025           |[Scientia vita est V - Akademia Puteus Putens](/flyer/Flyer_SVE5.1_2025.pdf)          |Scienta vita est V – Akademie Puteus Putens|
 |20.-22.09.2013           |[KOH MIR – KOH SHABBA](/flyer/MiniOrkCon_XIV_Koh_mir_-_Koh_shabba.pdf)                |MiniOrkCon 14|
 |24.-26.08.2012           |[Marr gajal – marr gul](Marr gajal - marr gul - MiniOrkCon 13)                        |MiniOrkCon 13|
 |31.12.2011               |[Lichtwerdung 517](Lichtwerdung 517)                                                  |Lichtwerdung 517|
