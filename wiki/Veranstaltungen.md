@@ -68,25 +68,6 @@ Conzahler mit Anreise ohne Anmeldebestätigung auf eigenes Risiko! Wir haben nur
 
 ---
 
-================================================================================================================================================================================================================
-Slogodd - Orga proudly present   
-Eine Veranstaltung des [Bayerische Liverollenspieler e.V.](http://www.bayerischeliverollenspieler.de/)
-
----
-
-Mini-Ork-Con XIV
-----------------
-
-**KOH MIR – KOH SHABBA**
-
-Vielen Dank an alle die am Con teilgenommen haben. Erfreulicherweise hatten wir diesmal viele neue Gesichter bei uns, die wir auch hoffentlich bald wieder bei unseren anderen Veranstaltungen antreffen werden.
-
-Die Resonanz zum Con war bisher gut und wie Ihr oben schon seht, können wir schon jetzt einen Termin für den nächsten eigenen Mini-Ork-Con präsentieren. Näheres findet Ihr immer hier, sobald wir wieder etwas zu berichten wissen.
-
-Max
-
----
-
 Stand der Planung für den nächsten Slogodd-Ork-Con
 --------------------------------------------------
 
