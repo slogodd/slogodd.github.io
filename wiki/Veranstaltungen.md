@@ -60,7 +60,7 @@ Im Preis enthalten sind Unterbringung (Bettwäsche inklusive) und Verpflegung:
 Abendessen (warm) Freitag, Frühstück Samstag, Mittagessen (Warm) Samstag, Festessen (Warm) Samstag, Brunch Sonntag sowie 2 „Zwischenmahlzeiten“ am Samstag. 
 Getränke kosten extra, bitte IT-Becher (bestenfalls 0,5l) mitbringen. 
 
-Zimmerpfand 10 Euro pro Person, Tavernenkarten zu 6,- € beim CheckIn erhältlich. 
+Zimmerpfand 10 Euro pro Person, Tavernenkarten zu 12,- € beim CheckIn erhältlich. 
 **Anmeldung:** Ihr seid angemeldet sobald das **Geld auf unserem Konto ist**, **wir eure Angaben haben** (Anmeldung per Post/E-Mail an Beate) und wir euch per Email oder telefonisch **die Anmeldung bestätigt** haben!
 Conzahler mit Anreise ohne Anmeldebestätigung auf eigenes Risiko! Wir haben nur begrenzte Plätze. 
 
@@ -103,37 +103,37 @@ Frühere Veranstaltungen:
 |15.-17.01.2027:          |[Scientia vita est 6 - Akademia Puteus Putens](/flyer/Flyer_SVE6.pdf)                 |Scientia vita est 6 – Akademie Puteus Putens||
 |17.-19.01.2025:          |[Scientia vita est V - Akademia Puteus Putens](/flyer/Flyer_SVE5.1_2025.pdf)          |Scientia vita est V – Akademie Puteus Putens|[Bilder](/galerie/pictures/2025_Akademie)|
 |05.-07.01.2018:          |Scientia vita est 3 - Akademia Puteus Putens                                          |Scientia vita est 3 - Akademia Puteus Putens|[Bilder](/galerie/pictures/2017_Akademie)|
-|29.-31.08.2014:          |Dautrogash - Hagglefair 2                                                             |MiniOrkCon 15|[Bilder](galerie/pictures/MiniOrkCon_XV_Dautrogash_-_Hagglefair_2)|
+|29.-31.08.2014:          |Dautrogash - Hagglefair 2                                                             |MiniOrkCon 15|[Bilder](/galerie/pictures/MiniOrkCon_XV_Dautrogash_-_Hagglefair_2)|
 |14.-16.02.2014:          |[Akademiecon Scientia vita est 2](Akademiecon Scientia vita est 2) Heilerkongreß      |Scientia vita est 2 – Akademie Puteus Putens||
 |20.-22.09.2013:          |[KOH MIR – KOH SHABBA](/flyer/MiniOrkCon_XIV_Koh_mir_-_Koh_shabba.pdf)                |MiniOrkCon 14||
-|24.-26.08.2012:          |[Marr gajal – marr gul](Marr gajal - marr gul - MiniOrkCon 13)                        |MiniOrkCon 13|[Bilder](galerie/pictures/MiniOrkCon_XIII_Marr_gajal-marr_gul)|
+|24.-26.08.2012:          |[Marr gajal – marr gul](Marr gajal - marr gul - MiniOrkCon 13)                        |MiniOrkCon 13|[Bilder](/galerie/pictures/MiniOrkCon_XIII_Marr_gajal-marr_gul)|
 |31.12.2011:              |[Lichtwerdung 517](Lichtwerdung 517)                                                  |Lichtwerdung 517||
-|19.-21.08.2011:          |[Gost Gorrog - Das Fest der Jagd](MiniOrkCon 12)                                      |MiniOrkCon 12|[Bilder](galerie/pictures/MiniOrkCon_XII_GostGorrog)|
+|19.-21.08.2011:          |[Gost Gorrog - Das Fest der Jagd](MiniOrkCon 12)                                      |MiniOrkCon 12|[Bilder](/galerie/pictures/MiniOrkCon_XII_GostGorrog)|
 |11.-13.03.2011:          |[Scienta vita est – Akademie Puteus Putens](Scienta vita est - Akademie Puteus Putens)|Scienta vita est – Akademie Puteus Putens||
 |24.-26.09.2010:          |[Schwingendämmerung](http://schwingen.kerfrek.de/)                                    |[Kerfrek](Kerfrek)||
 |29.05.2010:              |[Die Jagd zu Mueller-Thurgau](Die Jagd zu Mueller-Thurgau)                            |Die Jagd zu Mueller-Thurgau||
 |07.11.2009:              |[Die Akte Stolzenberg](Die Akte Stolzenberg)                                          |Die Akte Stolzenberg||
-|10.–12.07.2009:          |[Gesellentaufe](Gesellentaufe)                                                        |Gesellentaufe|[Bilder](galerie/pictures/Gesellentaufe)|
+|10.–12.07.2009:          |[Gesellentaufe](Gesellentaufe)                                                        |Gesellentaufe|[Bilder](/galerie/pictures/Gesellentaufe)|
 |21.03.2009:              |[Kampf und Mampf II](Kampf und Mampf 2)                                               |Kampf und Mampf 2||
-|18.-20. Juli 2008:       |[Dautrogash - Hagglefair VII n.F.](MiniCon 11)                                        |MiniCon 11|[Bilder](galerie/pictures/Dautrogash)|
-|07.-09. September 2007:  |[Die Macht der FÜNF](MiniCon 10)                                                      |MiniCon 10|[Bilder](galerie/pictures/MiniOrkCon_X)|
-|07. Juli 2007:           |[Kampf und Mampf 1](Kampf und Mampf)                                                  |Kampf und Mampf|[Bilder](galerie/pictures/Mampf_und_Kampf_01)|
-|14. April 2007:          |[Kerfrek vs. Yak Tarr Nai](Kerfrek vs. Yak Tarr Nai)                                  |[Kerfrek](Kerfrek)|[Bilder](galerie/pictures/Kerfrek_gg_Yakks)|
-|2006 Sommer              |Elfenball - Die Vorrunde                                                              |Minicon 9|[Bilder](galerie/pictures/Elfenball)|
-|27.-29. Januar 2006:     |[Schwert und Geist](MiniCon 8)                                                        |MiniCon 8|[Bilder](galerie/pictures/MiniOrkCon%20VIII)|
+|18.-20. Juli 2008:       |[Dautrogash - Hagglefair VII n.F.](MiniCon 11)                                        |MiniCon 11|[Bilder](/galerie/pictures/Dautrogash)|
+|07.-09. September 2007:  |[Die Macht der FÜNF](MiniCon 10)                                                      |MiniCon 10|[Bilder](/galerie/pictures/MiniOrkCon_X)|
+|07. Juli 2007:           |[Kampf und Mampf 1](Kampf und Mampf)                                                  |Kampf und Mampf|[Bilder](/galerie/pictures/Mampf_und_Kampf_01)|
+|14. April 2007:          |[Kerfrek vs. Yak Tarr Nai](Kerfrek vs. Yak Tarr Nai)                                  |[Kerfrek](Kerfrek)|[Bilder](/galerie/pictures/Kerfrek_gg_Yakks)|
+|2006 Sommer              |Elfenball - Die Vorrunde                                                              |Minicon 9|[Bilder](/galerie/pictures/Elfenball)|
+|27.-29. Januar 2006:     |[Schwert und Geist](MiniCon 8)                                                        |MiniCon 8|[Bilder](/galerie/pictures/MiniOrkCon%20VIII)|
 |21.-23. Oktober 2005:    |[Hortus Bellicus III](Hortus Bellicus)                                                |[Kerfrek](Kerfrek)||
-|02.-04. September 2005:  |[Die Jagd](MiniCon 7)                                                                 |MiniCon 7|[Bilder](galerie/pictures/MiniOrkCon%20VII%20-%20die%20Jagd)|
+|02.-04. September 2005:  |[Die Jagd](MiniCon 7)                                                                 |MiniCon 7|[Bilder](/galerie/pictures/MiniOrkCon%20VII%20-%20die%20Jagd)|
 |8./9.1. & 23./24.7. 2005:|[Hortus Bellicus I + II](Hortus Bellicus)                                             |[Kerfrek](Kerfrek)||
 |03.-05. September 2004:  |[Blutjagd 3 - Feld der Fehde](Blutjagd 3)                                             |*nicht von uns*||
-|27.-29. August 2004:     |[Der große Wurf](MiniCon 6)                                                           |MiniCon 6|[Bilder](galerie/pictures/MiniCon%206)|
+|27.-29. August 2004:     |[Der große Wurf](MiniCon 6)                                                           |MiniCon 6|[Bilder](/galerie/pictures/MiniCon%206)|
 |19.-21. März 2004:       |[Tod und Leben](MiniCon 5)                                                            |MiniCon 5||
-|07.-10. August 2003:     |[Feuer und Flamme](Feuer und Flamme)                                                  |*nicht von uns*||
-|11.-13. Oktober 2002:    |[Sippengründung](Sippengründung)                                                      |Sippengründung||
-|25.-27. Januar 2002:     |[Sippengründung Vorbereitung](MiniCon 4)                                              |MiniCon 4||
+|07.-10. August 2003:     |[Feuer und Flamme](Feuer und Flamme)                                                  |*nicht von uns*|[Bilder](/galerie/pictures/Alte%20Schnappschuesse/feuer)|
+|11.-13. Oktober 2002:    |[Sippengründung](Sippengründung)                                                      |Sippengründung|[Bilder](/galerie/pictures/Alte%20MiniCons/sippe)|
+|25.-27. Januar 2002:     |[Sippengründung Vorbereitung](MiniCon 4)                                              |MiniCon 4|[Bilder](/galerie/pictures/Alte%20MiniCons/MiniCon%20IV)|
 |01.-03. März 2002:       |[Kerfrek 2 - Ein Wintermärchen](Kerfrek 2)                                            |[Kerfrek](Kerfrek)||
-|14.-17. Juni 2001:       |[In Nomine Drakesch - Die Rückkehr](In Nomine Drakesch - Die Rückkehr)                |*nicht von uns*||
-|25.-27. Mai 2001:        |[Spinnenwald](MiniCon 3)                                                              |MiniCon 3||
+|14.-17. Juni 2001:       |[In Nomine Drakesch - Die Rückkehr](In Nomine Drakesch - Die Rückkehr)                |*nicht von uns*|[Bilder](/galerie/pictures/Alte%20Schnappschuesse/In%20nomine%20Drakesh)|
+|25.-27. Mai 2001:        |[Spinnenwald](MiniCon 3)                                                              |MiniCon 3|[Bilder](/galerie/pictures/Alte%20MiniCons/MiniCon%20III)|
 |17. März 2001:           |[Stammtischabend](Stammtisch)                                                         |Stammtisch||
-|09.-11. Februar 2001:    |[Ork-Vorbereitungs-Con](MiniCon 2)                                                    |MiniCon 2||
-|01.-??. Dezember 2000:   |[Gruppengründung](MiniCon 1)                                                          |MiniCon 1||
+|09.-11. Februar 2001:    |[Ork-Vorbereitungs-Con](MiniCon 2)                                                    |MiniCon 2|[Bilder](/galerie/pictures/Alte%20MiniCons/MiniCon%20II)|
+|01.-??. Dezember 2000:   |[Gruppengründung](MiniCon 1)                                                          |MiniCon 1|[Bilder](/galerie/pictures/Alte%20MiniCons/MiniCon%20I)|
 |17.-20. August 2000:     |[Grüne Faust](Grüne Faust)                                                            |*nicht von uns*||
